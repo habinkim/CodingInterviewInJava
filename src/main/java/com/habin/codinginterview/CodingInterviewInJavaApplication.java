@@ -10,4 +10,4 @@ public class CodingInterviewInJavaApplication {
 		SpringApplication.run(CodingInterviewInJavaApplication.class, args);
 	}
 
-}   
+}
